@@ -1,12 +1,12 @@
 [
   {
-    "title": "Bluepencil Editing Co.",
-    "image": "",
-    "summary": "Developmental and line editing for fantasy and romance novels, with a focus on pacing and voice. Typical turnaround is 3-4 weeks for a full manuscript.",
+    "title": "Kristina's Editing Space",
+    "https://static.wixstatic.com/media/5b0b41_ee8ee4854111480e9e47b771eb148442~mv2.png/v1/crop/x_0,y_18,w_473,h_376/fill/w_268,h_214,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/KES_edited_edited.png": "",
+    "summary": "I provide tailored editorial services for indie authors, specializing in Developmental Editing and Proofreading for both fiction and creative non-fiction. My goal is to help your writing shine, achieving your publishing ambitions.",
     "services": ["Editing"],
-    "tags": ["developmental editing", "line editing", "fantasy", "romance"],
+    "tags": ["Writing Consultation","developmental editing", "Compy editing", "post edits proofread", "romance"],
     "links": [
-      { "url": "https://example.com/bluepencil", "label": "Website" },
+      { "url": "https://www.kristinaseditingspace.com/", "label": "Website" },
       { "url": "https://example.com/bluepencil/rates", "label": "Rates" }
     ]
   },
