@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Bluepencil Editing Co.",
+    "image": "",
+    "summary": "Developmental and line editing for fantasy and romance novels, with a focus on pacing and voice. Typical turnaround is 3-4 weeks for a full manuscript.",
+    "services": ["Editing"],
+    "tags": ["developmental editing", "line editing", "fantasy", "romance"],
+    "links": [
+      { "url": "https://example.com/bluepencil", "label": "Website" },
+      { "url": "https://example.com/bluepencil/rates", "label": "Rates" }
+    ]
+  },
+  {
+    "title": "Covers by Nadia",
+    "image": "",
+    "summary": "Illustrated and typography-driven cover design for YA and fantasy. Packages include a full wraparound for print and a matching e-book cover.",
+    "services": ["Cover Design"],
+    "tags": ["illustrated covers", "typography", "YA", "fantasy", "print wraps"],
+    "links": [
+      { "url": "https://example.com/coversbynadia", "label": "Portfolio" }
+    ]
+  },
+  {
+    "title": "WordWeave Formatting",
+    "image": "",
+    "summary": "Clean, consistent e-book and print formatting using Vellum or Atticus, including drop caps, scene breaks, and front/back matter.",
+    "services": ["Formatting"],
+    "tags": ["ebook formatting", "print formatting", "Vellum", "Atticus"],
+    "links": [
+      { "url": "https://example.com/wordweave", "label": "Website" }
+    ]
+  },
+  {
+    "title": "Indie Ad Collective",
+    "image": "",
+    "summary": "Amazon and Facebook ad management for self-published authors, plus newsletter swap coordination to build an engaged mailing list.",
+    "services": ["Marketing", "Advertising"],
+    "tags": ["Amazon ads", "Facebook ads", "newsletter swaps", "launch strategy"],
+    "links": [
+      { "url": "https://example.com/indieadcollective", "label": "Website" }
+    ]
+  },
+  {
+    "title": "Narrated by Theo",
+    "image": "",
+    "summary": "Warm, versatile male narration for fiction and nonfiction audiobooks, ACX-distributed with royalty share or per-finished-hour options.",
+    "services": ["Audiobook Production", "Narration"],
+    "tags": ["audiobook narration", "ACX", "male narrator", "royalty share"],
+    "links": [
+      { "url": "https://example.com/narratedbytheo", "label": "Demo reel" }
+    ]
+  },
+  {
+    "title": "Lingua Indie Translations",
+    "image": "",
+    "summary": "Literary translation into Spanish and French by a two-person team with a background in genre fiction, including localized idioms and cultural notes.",
+    "services": ["Translation"],
+    "tags": ["Spanish translation", "French translation", "literary translation"],
+    "links": [
+      { "url": "https://example.com/linguaindie", "label": "Website" }
+    ]
+  }
+]
