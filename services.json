@@ -15,9 +15,9 @@
     "image": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/b713f54c0d926492f74bdd142c7b96fa~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=8075c80b&x-expires=1791612000&x-signature=iecoIVzt4zCM5Egk9i69EucEXR0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
     "summary": "Pro Artist Available for Commissions",
     "services": ["Cover Design"],
-    "tags": ["illustrated covers", "typography", "YA", "fantasy", "print wraps"],
+    "tags": ["Promotional Artwork", "Character Art"],
     "links": [
-      { "url": "https://example.com/coversbynadia", "label": "Portfolio" }
+      { "url": "https://www.tiktok.com/@art.by.mira4", "label": "TikTok" }
     ]
   },
   {
@@ -31,13 +31,13 @@
     ]
   },
   {
-    "title": "Indie Ad Collective",
-    "image": "",
-    "summary": "Amazon and Facebook ad management for self-published authors, plus newsletter swap coordination to build an engaged mailing list.",
-    "services": ["Marketing", "Advertising"],
-    "tags": ["Amazon ads", "Facebook ads", "newsletter swaps", "launch strategy"],
+    "title": "Book Surgeons",
+    "image": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7968c38ed2c8dd84f62453aa4cf23682~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=e1d9f64b&x-expires=1791612000&x-signature=Id0vXE07AtL%2F%2FGkdpYSALWY3MBM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "summary": "Book Editor • Beta Reader • Query & synopsis feedback. I don’t judge books by their covers. I judge them by their second drafts.",
+    "services": ["Editing"],
+    "tags": ["Book Editing", "Beta Reader"],
     "links": [
-      { "url": "https://example.com/indieadcollective", "label": "Website" }
+      { "url": "https://www.tiktok.com/@booksurgeons", "label": "TikTok" }
     ]
   },
   {
