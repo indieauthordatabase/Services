@@ -41,13 +41,13 @@
     ]
   },
   {
-    "title": "Narrated by Theo",
-    "image": "",
-    "summary": "Warm, versatile male narration for fiction and nonfiction audiobooks, ACX-distributed with royalty share or per-finished-hour options.",
-    "services": ["Audiobook Production", "Narration"],
-    "tags": ["audiobook narration", "ACX", "male narrator", "royalty share"],
+    "title": "Kate Clover Narrates",
+    "image": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/0a921117492c8ea08d57fd6daaaf1f82~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=ab344904&x-expires=1791615600&x-signature=a8UfWAm%2Fd2GNLdrWU3hZcNctJFs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "summary": "Lover of books. Performer of words. The Kingdom of Curses by Danielle D Drummond- 2025 Indie Ink Award Winner for Best Audio Narration! Hi! I'm Kate Cover, an LGTBQIA+, AuDHD, singing narrator.",
+    "services": ["Narration"],
+    "tags": ["audiobook narration", "Various Accents", "Various Vocal Ages", "Female Narrator", "Singing Narrator"],
     "links": [
-      { "url": "https://example.com/narratedbytheo", "label": "Demo reel" }
+      { "url": "https://kateclovernarrates.com/", "label": "Website" }
     ]
   },
   {
