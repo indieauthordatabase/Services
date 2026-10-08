@@ -14,7 +14,7 @@
     "title": "@rt by Mira",
     "image": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/b713f54c0d926492f74bdd142c7b96fa~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=8075c80b&x-expires=1791612000&x-signature=iecoIVzt4zCM5Egk9i69EucEXR0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
     "summary": "Pro Artist Available for Commissions",
-    "services": ["Cover Design"],
+    "services": ["Custom Artwork"],
     "tags": ["Promotional Artwork", "Character Art"],
     "links": [
       { "url": "https://www.tiktok.com/@art.by.mira4", "label": "TikTok" }
@@ -51,13 +51,13 @@
     ]
   },
   {
-    "title": "Lingua Indie Translations",
-    "image": "",
-    "summary": "Literary translation into Spanish and French by a two-person team with a background in genre fiction, including localized idioms and cultural notes.",
-    "services": ["Translation"],
-    "tags": ["Spanish translation", "French translation", "literary translation"],
+    "title": "Fiona Illustrator",
+    "image": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a2d3fc77cfc7c70b659ad01c7cc365fe~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=a2cfc898&x-expires=1791615600&x-signature=vjnHCNIq2ROK%2FyS8GqGrrQw5kOs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "summary": " Illustrator | Character Artist - Character Art • Cover Art • Manga 🎨 Made from Your Ideas & References 🚫 No AI Art 💌 DM for Custom Artwork",
+    "services": ["Cover Design", "Custom Artwork"],
+    "tags": ["Character Art", "Cover Art"],
     "links": [
-      { "url": "https://example.com/linguaindie", "label": "Website" }
+      { "url": "https://www.tiktok.com/@fiona_arts01", "label": "TikTok" }
     ]
   }
 ]
